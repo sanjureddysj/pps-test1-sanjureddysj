@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>           //Pass by Value
 
 int input()
 {
